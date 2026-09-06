@@ -1,0 +1,31 @@
+{
+  "id": "/",
+  "name": "AYUSH Prepmaster - NEXT, AMO & PG Entrance Exam",
+  "short_name": "AYUSH Prep",
+  "description": "Comprehensive NCISM-mapped exam preparation platform with 10,000+ MCQs, detailed explanations, subject & mixed mock tests, flashcards, and performance analytics.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#064e3b",
+  "background_color": "#064e3b",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
